@@ -18,7 +18,7 @@
 			<c:if test="${empty name}">
 			Welcome Welcome!
 			
-			<a href="hello/Mayur">Click Here</a>
+			<a href="hello/TechM">Click Here</a>
 			</c:if>
 		</h3>
 
